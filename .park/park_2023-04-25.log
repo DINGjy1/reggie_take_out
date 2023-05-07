@@ -1,0 +1,13 @@
+2023-04-25 21:15:50 info HotFix **************************************************************
+
+2023-04-25 21:15:50 info HotFix Project(name=reggie_take_out, containerState=COMPONENT_CREATED, componentStore=F:\java项目\reggie_take_out\reggie_take_out)
+2023-04-25 21:15:50 info HotFix 开始执行热部署操作
+2023-04-25 21:16:58 info HotFix **************************************************************
+
+2023-04-25 21:16:58 info HotFix Project(name=reggie_take_out, containerState=COMPONENT_CREATED, componentStore=F:\java项目\reggie_take_out\reggie_take_out)
+2023-04-25 21:16:58 info HotFix 开始执行热部署操作
+2023-04-25 21:16:58 info HotFix component=EditorComponent file=file://F:/java项目/reggie_take_out/reggie_take_out/src/main/java/org/example/reggie/controller/EmployeeController.java
+2023-04-25 21:16:58 info HotFixService >>>>>> Step-1 检查是否登录
+2023-04-25 21:16:58 info HotFixService 未登录，执行登录操作
+2023-04-25 21:16:58 info UserService login url : http://park.alibaba-inc.com/login?cefFunc=cefQuery_523524277_1
+2023-04-25 21:17:11 info HotFixService userCancel
